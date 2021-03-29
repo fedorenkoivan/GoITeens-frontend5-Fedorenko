@@ -29,14 +29,22 @@
         <h4>Текст різного розміру</h4>
         <h5>Текст різного розміру</h5>
         <h6>Текст різного розміру</h6>
-        <!----- Параграф ----->
+<!----- Параграф ----->
         <p>This is a paragraph.</p>
         <p>This is another paragraph.</p>
         <!------ Посилання ---->
         <a href="https://www.w3schools.com">This is a link</a>
         <!------ Зображення ---->
         <img src="end840.jpg" alt="GoITeens" width="300" height="190">
-        <!------ Кнопка ----->
+        <button>Click me</button>
+        <p>This is a paragraph.</p>
+        <img src="end840_b.bmp" alt="GoITeens" width="300" height="190">
+        <button>Click me</button>
+        <p>This is a paragraph.</p>
+        <img src="end840_g.gif" alt="GoITeens" width="300" height="190">
+        <button>Click me</button>
+        <p>This is a paragraph.</p>
+        <img src="end840_p.png" alt="GoITeens" width="300" height="190">
         <button>Click me</button>
         <!------ Списки ----->
         <h3>Мої улюблені напої:</h3>
