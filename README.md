@@ -11,9 +11,11 @@ The **Resume Page** (`resume_Ivan.html`) is a single-page personal profile showc
 
 ## Project Structure
 
-/resume/ 
-├── resume_Ivan.html   # Main HTML file for the resume
-├── style.css          # Custom CSS styling for the resume
-└── img/               # Directory containing images
-    ├── mua.jpg        # Personal photo
+```text
+/resume/   
+├── resume_Ivan.html   # Main HTML file for the resume  
+├── style.css          # Custom CSS styling for the resume  
+└── img/               # Directory containing images  
+    ├── mua.jpg        # Personal photo  
     └── fraier.jpg     # Background image
+```
